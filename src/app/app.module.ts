@@ -14,13 +14,12 @@ import { ProductTracklistingComponent } from './product-tracklisting/product-tra
     AppComponent,
     ProductPageComponent,
     ProductDescriptionComponent,
-    ProductService,
     ProductTracklistingComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
-    HttpModule
+    HttpModule,
   ],
   providers: [ProductService],
   bootstrap: [AppComponent]

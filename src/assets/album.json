@@ -1,19 +1,150 @@
-{
-  "id": 1,
-  "artist": "The Prependers",
-  "album": {
-    "name": "Opacity Zero",
-    "releaseDate": "September 25, 2014",
-    "coverImage": "assets/opacity-zero.jpg",
-    "tracks": [
-      {"trackNumber": 1, "trackName": "The Last", "trackLength": "4:48", "trackPrice": 0.99 },
-      {"trackNumber": 2, "trackName": "Downtown", "trackLength": "3:13", "trackPrice": 0.99 },
-      {"trackNumber": 3, "trackName": "Yellow Carpet", "trackLength": "3:42", "trackPrice": 0.99 },
-      {"trackNumber": 4, "trackName": "Rocket to Mars", "trackLength": "4:31", "trackPrice": 0.99 },
-      {"trackNumber": 5, "trackName": "Walk, not Run", "trackLength": "2:53", "trackPrice": 0.99 },
-      {"trackNumber": 6, "trackName": "Design", "trackLength": "5:12", "trackPrice": 0.99 },
-      {"trackNumber": 7, "trackName": "Shopping Cart", "trackLength": "9:07", "trackPrice": 0.99 },
-      {"trackNumber": 8, "trackName": "Our Gift to You", "trackLength": "3:59", "trackPrice": 0.99 }
-    ]
+[
+  {
+    "id": 1,
+    "artist": "The Prependers",
+    "album": {
+      "name": "Opacity Zero",
+      "releaseDate": "September 25, 2014",
+      "coverImage": "assets/opacity-zero.jpg",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "trackName": "The Last",
+          "trackLength": "4:48",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 2,
+          "trackName": "Downtown",
+          "trackLength": "3:13",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 3,
+          "trackName": "Yellow Carpet",
+          "trackLength": "3:42",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 4,
+          "trackName": "Rocket to Mars",
+          "trackLength": "4:31",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 5,
+          "trackName": "Walk, not Run",
+          "trackLength": "2:53",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 6,
+          "trackName": "Design",
+          "trackLength": "5:12",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 7,
+          "trackName": "Shopping Cart",
+          "trackLength": "9:07",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 8,
+          "trackName": "Our Gift to You",
+          "trackLength": "3:59",
+          "trackPrice": 0.99
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "artist": "Taylor Swift",
+    "album": {
+      "name": "1989",
+      "releaseDate": "October 27, 2014",
+      "coverImage": "assets/taylorswift.jpg",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "trackName": "Welcome to New York",
+          "trackLength": "3:32",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 2,
+          "trackName": "Blank Space",
+          "trackLength": "3:51",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 3,
+          "trackName": "Style",
+          "trackLength": "3:51",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 4,
+          "trackName": "Out of the Woods",
+          "trackLength": "3:55",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 5,
+          "trackName": "All You Had to Do Was Stay",
+          "trackLength": "3:13",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 6,
+          "trackName": "Shake It Off",
+          "trackLength": "3:39",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 7,
+          "trackName": "I Wish You Would",
+          "trackLength": "3:27",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 8,
+          "trackName": "Bad Blood",
+          "trackLength": "3:31",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 9,
+          "trackName": "Wildest Dreams",
+          "trackLength": "3:40",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 10,
+          "trackName": "How You Get the Girl",
+          "trackLength": "4:07",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 11,
+          "trackName": "This Love",
+          "trackLength": "4:10",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 12,
+          "trackName": "I Know Places",
+          "trackLength": "3:15",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 13,
+          "trackName": "Clean",
+          "trackLength": "4:30",
+          "trackPrice": 0.99
+        }
+      ]
+    }
   }
-}
+]
