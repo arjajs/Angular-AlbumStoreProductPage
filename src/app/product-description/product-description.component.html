@@ -1,15 +1,10 @@
 <div class="row description"> 
-     <ul>
-      <li ngFor="let album of albumInfo?.album">
   <div class="col-sm-2">
-
-    <img [src]="album?.coverImage" alt="product image" />
+    <img src="{{albumInfo?.album.coverImage}}" alt="product image" />
   </div>
   <div class="col-sm-6">
-    <p class="album-name">{{album?.name}}</p>
-    <p class="band-name">{{album?.artist}}</p>
-    <p class="album-release-date">{{album?.releaseDate}}</p>
+    <p class="album-name">{{albumInfo?.album.name}}</p>
+    <p class="band-name">{{albumInfo?.album.artist}}</p>
+    <p class="album-release-date">{{albumInfo?.album.releaseDate}}</p>
   </div>
-</li>
-</ul>
 </div>
